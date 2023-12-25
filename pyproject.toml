@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "knowbotv2"
+name = "knowbot_ai"
 version = "0.1.0"
 description = ""
 authors = ["daniel.vazquez-silva <daniel.vazquez-silva@darkwolfsolutions.com>"]
